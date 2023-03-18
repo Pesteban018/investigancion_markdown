@@ -4,7 +4,7 @@
 ## Temas
 
 
-- [Concurrencia](Concurrecnias.md)
+- [Concurrencia](Concurrencias.md)
 - [Paralelismo vs Concurrencia en informática](https://)
 - [Hilos implementación en Python](https://)
 - [Deadlock](https://)
