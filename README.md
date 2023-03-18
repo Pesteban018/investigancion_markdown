@@ -5,11 +5,11 @@
 
 
 - [Concurrencia](https://)
-- Paralelismo vs Concurrencia en informática 
-- Hilos implementación en Python.
-- Deadlock
-- Exclusión mutual 
-- Mantenga y espere 
-- No preventivo 
-- Espera circular 
-- Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos
+- [Paralelismo vs Concurrencia en informática](https://)
+- [Hilos implementación en Python](https://)
+- [Deadlock](https://)
+- [Exclusión mutual](https://)
+- [Mantenga y espere](https://)
+- [No preventivo](https://)
+- [Espera circular](https://)
+- [Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos](https://)
