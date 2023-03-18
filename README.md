@@ -1,5 +1,5 @@
 # investigancion_markdown
-![](https://i.imgur.com/rbKWPxz.png)
+![MarkDown](https://i.imgur.com/rbKWPxz.png)
 ## Temas
 
 
