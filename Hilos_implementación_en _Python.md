@@ -1,6 +1,4 @@
-#Hilos implementación en Python
 
- [hilos](https://i.imgur.com/Mb5ZYbT.jpg)
  
  ### Que son los hilos?
 
@@ -11,6 +9,8 @@ Los hilos nos permiten aprovechar las capacidades multiprocesador de nuestras m�
 
 
 ## Hilos implementación en Python
+
+ [hilos](https://i.imgur.com/Mb5ZYbT.jpg)
 En Python, los hilos se pueden implementar utilizando la biblioteca estándar **threading**. La biblioteca threading proporciona un conjunto de herramientas para crear y administrar hilos en un programa Python.
 
 Para crear un hilo en Python, primero debe definir una función que represente la tarea que desea realizar en paralelo. Luego, puede crear una instancia de la clase **Thread** en la biblioteca threading y proporcionar la función como argumento. A continuación, puede iniciar el hilo utilizando el método start().
