@@ -1,5 +1,5 @@
 # investigancion_markdown
-![MarkDown](https://i.imgur.com/rbKWPxz.png)
+![MarkDown](![image](https://user-images.githubusercontent.com/107761268/226145328-4c8b0e26-bf37-43fa-b854-0127995ce19d.png))
 ## Temas
 
 
