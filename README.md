@@ -5,7 +5,7 @@
 
 
 - [Concurrencia](Concurrencia.md)
-- [Paralelismo vs Concurrencia en informática](https://)
+- [Paralelismo vs Concurrencia en informática](Paralelismo_vs_Concurrencia.md)
 - [Hilos implementación en Python](https://)
 - [Deadlock](https://)
 - [Exclusión mutual](https://)
