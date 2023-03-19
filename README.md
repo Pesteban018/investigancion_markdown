@@ -12,4 +12,4 @@
 - [Mantenga y espere](mantenga_&_espere.md)
 - [No preventivo](no_preventivo.md)
 - [Espera circular](espera_circular.md)
-- [Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos](https://)
+- [Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos](manejo_interbloqueo.md)
