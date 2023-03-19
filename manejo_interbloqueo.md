@@ -1,0 +1,11 @@
+# Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos
+
+![bloqueo](https://i.imgur.com/KO7xVKk.jpg)
+
+El problema del interbloque o deadlock es un problema común en sistemas operativos cuando varios procesos o hilos intentan adquirir recursos compartidos de manera exclusiva y no pueden hacerlo debido a que otros procesos o hilos están reteniendo esos recursos. Esta situación puede llevar a una condición de bloqueo mutuo en la que ningún proceso o hilo puede avanzar.
+
+El problema de los filósofos es un problema clásico en el que cinco filósofos se sientan alrededor de una mesa con un plato de espaguetis y un tenedor a cada lado. Los filósofos alternan entre comer y pensar, y solo pueden comer si tienen dos tenedores. El problema surge cuando cada filósofo intenta adquirir los dos tenedores a su lado al mismo tiempo, lo que lleva a una situación de interbloque o deadlock.
+
+Para manejar el problema del interbloque en sistemas operativos, se pueden utilizar diferentes técnicas, como el algoritmo del banquero, el enfoque de prevención de deadlock, la detección y recuperación de deadlock, y la exclusión mutua. El algoritmo del banquero se utiliza para evitar que los procesos soliciten más recursos de los que están disponibles, mientras que el enfoque de prevención de deadlock implica diseñar un sistema en el que no sea posible que ocurra un deadlock. La detección y recuperación de deadlock se utilizan para detectar y resolver situaciones de deadlock existentes, mientras que la exclusión mutua se utiliza para garantizar que solo un proceso tenga acceso a un recurso compartido en un momento dado.
+
+En el problema de los filósofos, se pueden utilizar técnicas similares para resolver el problema de interbloque. Una solución común es utilizar exclusión mutua para garantizar que solo un filósofo tenga acceso a un tenedor en un momento dado, y luego utilizar un algoritmo de asignación de recursos, como el algoritmo del banquero, para garantizar que no se produzca una situación en la que un filósofo tenga acceso a un solo tenedor y no pueda adquirir el otro. Otras soluciones incluyen la asignación de un tenedor adicional o la introducción de una regla de espera aleatoria para evitar que los filósofos intenten adquirir los tenedores al mismo tiempo.
