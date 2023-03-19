@@ -11,5 +11,5 @@
 - [Exclusión mutual](exclusión_mutual.md)
 - [Mantenga y espere](mantenga_&_espere.md)
 - [No preventivo](no_preventivo.md)
-- [Espera circular](https://)
+- [Espera circular](espera_circular.md)
 - [Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos](https://)
