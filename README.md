@@ -9,7 +9,7 @@
 - [Hilos implementación en Python](hilos_implementación_en_python.md)
 - [Deadlock](deadlock.md)
 - [Exclusión mutual](exclusión_mutual.md)
-- [Mantenga y espere](https://)
+- [Mantenga y espere](mantenga_&_espere.md)
 - [No preventivo](https://)
 - [Espera circular](https://)
 - [Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos](https://)
