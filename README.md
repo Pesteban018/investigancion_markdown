@@ -8,7 +8,7 @@
 - [Paralelismo vs Concurrencia en informática](Paralelismo_vs_Concurrencia.md)
 - [Hilos implementación en Python](hilos_implementación_en_python.md)
 - [Deadlock](deadlock.md)
-- [Exclusión mutual](https://)
+- [Exclusión mutual](exclusión_mutual.md)
 - [Mantenga y espere](https://)
 - [No preventivo](https://)
 - [Espera circular](https://)
