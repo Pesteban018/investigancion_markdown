@@ -1,5 +1,7 @@
 # Exclusión mutual
 
+![mutual](https://i.imgur.com/Rpsw03Z.png)
+
 La exclusión mutua es un problema común en programación concurrente, que se refiere a la necesidad de evitar que varios procesos o hilos de ejecución accedan simultáneamente a un recurso compartido, como una sección crítica de código o un recurso físico como un archivo o un dispositivo de entrada/salida. La exclusión mutua es importante para garantizar que los procesos o hilos accedan a los recursos compartidos de manera ordenada y segura, evitando situaciones de carrera crítica y resultados no deterministas.
 
 Hay varias técnicas para implementar la exclusión mutua, incluyendo el uso de semáforos, monitores y bloqueos. Por ejemplo, los semáforos son un mecanismo común de exclusión mutua que permite que solo un hilo o proceso acceda a un recurso compartido a la vez. Los semáforos tienen dos operaciones principales: **wait()** y **signal()**. Cuando un hilo desea acceder a un recurso compartido, primero llama a la operación **wait()** en el semáforo. Si el semáforo está en cero, lo que indica que otro hilo está utilizando el recurso, el hilo que llama a **wait()** se bloquea hasta que el semáforo se incremente. Cuando el hilo que está utilizando el recurso termina, llama a la operación **signal()** para liberar el semáforo y permitir que otro hilo acceda al recurso.
