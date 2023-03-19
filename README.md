@@ -10,6 +10,6 @@
 - [Deadlock](deadlock.md)
 - [Exclusión mutual](exclusión_mutual.md)
 - [Mantenga y espere](mantenga_&_espere.md)
-- [No preventivo](https://)
+- [No preventivo](no_preventivo.md)
 - [Espera circular](https://)
 - [Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos](https://)
