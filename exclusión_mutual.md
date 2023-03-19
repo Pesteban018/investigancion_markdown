@@ -1,6 +1,6 @@
 # Exclusión mutual
 
-![mutual](https://i.imgur.com/uFsqXC2.png
+![mutual](https://i.imgur.com/uFsqXC2.png)
 
 La exclusión mutua es un problema común en programación concurrente, que se refiere a la necesidad de evitar que varios procesos o hilos de ejecución accedan simultáneamente a un recurso compartido, como una sección crítica de código o un recurso físico como un archivo o un dispositivo de entrada/salida. La exclusión mutua es importante para garantizar que los procesos o hilos accedan a los recursos compartidos de manera ordenada y segura, evitando situaciones de carrera crítica y resultados no deterministas.
 
