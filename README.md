@@ -7,7 +7,7 @@ Si dos filósofos adyacentes intentan tomar el mismo tenedor a una vez, se produ
 Si todos los filósofos toman el tenedor que está a su derecha al mismo tiempo, entonces todos se quedarán esperando eternamente, porque alguien debe liberar el tenedor que les falta. Nadie lo hará porque todos se encuentran en la misma situación (esperando que alguno deje sus tenedores). Entonces los filósofos se morirán de hambre. Este bloqueo mutuo se denomina interbloqueo o deadlock. 
 
 # Diagrama de flujo
-![Sin título_0](https://user-images.githubusercontent.com/107761268/228697298-57d0e577-210e-4d1d-8086-e7d74cdfd083.jpg)
+![Sin título_0](https://user-images.githubusercontent.com/107761268/228698071-194eace6-e373-4b5a-99fb-2331b7bf2ed9.jpg)
 
 # Codigo de python que utilize 
 
