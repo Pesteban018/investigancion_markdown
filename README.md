@@ -1,3 +1,9 @@
+
+
+# Diagrama de flujo
+![Sin título_0](https://user-images.githubusercontent.com/107761268/228696037-847d6e22-d407-4916-a748-0b8b3ec42ebc.jpg)
+
+
 # Investigancion
 ![image](https://user-images.githubusercontent.com/107761268/226145345-714825c7-9a2c-4776-856a-518e4a353e2a.png)
 
