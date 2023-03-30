@@ -1,4 +1,4 @@
-# Popblema de los filosofos
+# Problema de los filosofos
 
 Cinco filósofos se sientan alrededor de una mesa y pasan su vida cenando y pensando. Cada filósofo tiene un plato de fideos y un tenedor a la izquierda de su plato. Para comer los fideos son necesarios dos tenedores y cada filósofo sólo puede tomar los que están a su izquierda y derecha. Si cualquier filósofo toma un tenedor y el otro está ocupado, se quedará esperando, con el tenedor en la mano, hasta que pueda tomar el otro tenedor, para luego empezar a comer. 
 
@@ -93,3 +93,10 @@ if __name__ == "__main__":
 - [No preventivo](no_preventivo.md)
 - [Espera circular](espera_circular.md)
 - [Como manejar el interbloque en sistemas operativos – Compara con el problema de los filósofos](manejo_interbloqueo.md)
+
+# Precentación
+
+Nombre: Esteban Pacheco
+
+Matricula: 2021-1076
+
