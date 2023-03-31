@@ -76,7 +76,7 @@ if __name__ == "__main__":
 
 # Video explicativo
 
-[HACCER CLIC PARA VER EL VIDEO](https://drive.google.com/file/d/14dmi6Mp9eX1Egxsz54oLHqL7pYGrzVdV/view?usp=sharing)
+[HACER CLIC PARA VER EL VIDEO](https://drive.google.com/file/d/14dmi6Mp9eX1Egxsz54oLHqL7pYGrzVdV/view?usp=sharing)
 
 # Investigancion
 ![](https://user-images.githubusercontent.com/107761268/226145345-714825c7-9a2c-4776-856a-518e4a353e2a.png)
